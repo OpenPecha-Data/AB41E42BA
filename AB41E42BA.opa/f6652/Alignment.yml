@@ -1,0 +1,22 @@
+segment_sources:
+  IEAD28E3E:
+    type: origin_type
+    relation: translation
+    language: en
+  I5142515F:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  dae8bad305ea4460a44886bfc3f09985:
+    IEAD28E3E: 7476deba46494f3d89bb968890030c4e
+    I5142515F: dbf451e0368148779888adf986861e2f
+  7c24cf11b35245d997795340908edaa6:
+    IEAD28E3E: 533ad54d63a44d1ab06dba1c832a1000
+    I5142515F: 4fa69c07d85b445694045ba83208dfdb
+  c2141095ae7448b3939327f1c24b3da4:
+    IEAD28E3E: 6b2c86501ca34e3ab3c0081349234dda
+    I5142515F: 3efb6aaf01ac46a38d0412c702aeb05d
+  c4a9d7d9e18844fdb11561392938d1d2:
+    IEAD28E3E: 9652765924454550bfdd4d170c06cf50
+    I5142515F: b3a1c166138e4a40a290b01963958678
